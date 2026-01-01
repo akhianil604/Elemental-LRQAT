@@ -1,4 +1,7 @@
-# Elemental LR-QAT for LLMs on NLP Tasks
+# Elemental LR-QAT for LLMs on NLP Tasks*
+#### *Accepted at 9th IEEE CSITSS 2025 & published on IEEE Xplore
+#### Publication Link: https://ieeexplore.ieee.org/document/11294798
+
 ## Authors
 1. **Akhilesh Anil***
 2. **Chinmay Shivanand Muragod***
